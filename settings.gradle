@@ -1,0 +1,2 @@
+include ':MvvMPro'
+rootProject.name='MvvMProject'
