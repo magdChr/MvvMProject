@@ -43,7 +43,8 @@ public class Note {
         return descriotion;
     }
 
-    public void setDescription(String descriotion) {
+ 
+    public void setNDescription(String descriotion) {
         this.descriotion = descriotion;
     }
 
