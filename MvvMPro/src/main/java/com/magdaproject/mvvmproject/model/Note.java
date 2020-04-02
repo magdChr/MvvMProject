@@ -39,12 +39,12 @@ public class Note {
         this.title = title;
     }
 
-    public String getDescriotion() {
+    public String getDescription() {
         return descriotion;
     }
 
  
-    public void setNDescription(String descriotion) {
+    public void setDescription(String descriotion) {
         this.descriotion = descriotion;
     }
 
